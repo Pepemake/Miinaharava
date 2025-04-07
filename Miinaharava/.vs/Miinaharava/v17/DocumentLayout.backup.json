@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|c:\\users\\phoeu\\documents\\koodi projektit\\tvt2025kev\u00E4t\\graafiset-k-ytt-liittym-t-pepemake\\120_omatyo\\miinaharava\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|c:\\users\\phoeu\\documents\\koodi projektit\\tvt2025kev\u00E4t\\graafiset-k-ytt-liittym-t-pepemake\\120_omatyo\\miinaharava\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|c:\\users\\phoeu\\documents\\koodi projektit\\tvt2025kev\u00E4t\\graafiset-k-ytt-liittym-t-pepemake\\120_omatyo\\miinaharava\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|c:\\users\\phoeu\\documents\\koodi projektit\\tvt2025kev\u00E4t\\graafiset-k-ytt-liittym-t-pepemake\\120_omatyo\\miinaharava\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|c:\\users\\phoeu\\documents\\koodi projektit\\tvt2025kev\u00E4t\\graafiset-k-ytt-liittym-t-pepemake\\120_omatyo\\miinaharava\\miinaharava.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C4C3515-2B33-492A-ACB6-147784070AB5}|Miinaharava.csproj|solutionrelative:miinaharava.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mine.cs",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Mine.cs",
+              "RelativeDocumentMoniker": "Mine.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Mine.cs*",
+              "RelativeToolTip": "Mine.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:36:28.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:06:39.116Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:00:56.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:18:28.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAhwFQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:11:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Miinaharava",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Miinaharava.csproj",
+              "RelativeDocumentMoniker": "Miinaharava.csproj",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Miinaharava.csproj",
+              "RelativeToolTip": "Miinaharava.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T06:31:09.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\phoeu\\Documents\\koodi projektit\\TVT2025kev\u00E4t\\graafiset-k-ytt-liittym-t-Pepemake\\120_Omatyo\\Miinaharava\\Game.cs [Design]",
+              "RelativeToolTip": "Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:05:58.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
